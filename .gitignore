@@ -1,3 +1,7 @@
 *.so
 messi*
 .ipynb_checkpoints
+*.out
+*.err
+*.pyc
+external/
